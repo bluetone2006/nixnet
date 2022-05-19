@@ -1,0 +1,26 @@
+:root { 
+  --storm-dust: #646464;
+  --white: #ffffff;
+ 
+  --font-size-l: 40px;
+  --font-size-m: 31px;
+  --font-size-s: 30px;
+  --font-size-xl: 108px;
+ 
+  --font-family-patron-bold-☞: "Patron-Bold-☞", Helvetica;
+}
+.patron-bold--bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-patron-bold-☞);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.patron-bold--bold-white-108px {
+  color: var(--white);
+  font-family: var(--font-family-patron-bold-☞);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

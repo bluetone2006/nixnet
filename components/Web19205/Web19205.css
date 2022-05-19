@@ -1,0 +1,167 @@
+.web-1920-5 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 810px;
+  justify-content: center;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group3 {
+  height: 815px;
+  position: relative;
+  width: 1444px;
+}
+
+.overlap-group-1 {
+  height: 815px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1444px;
+}
+
+.rectangle-1-1 {
+  background: linear-gradient(180deg, #7400e8 0%, #ceb000 100%, #707400 100%);
+  height: 1444px;
+  left: 314px;
+  position: absolute;
+  top: -314px;
+  transform: rotate(-90deg);
+  width: 815px;
+}
+
+.rectangle-2 {
+  background-color: var(--white);
+  border: 1px solid #707070;
+  height: 302px;
+  left: 644px;
+  position: absolute;
+  top: 262px;
+  width: 595px;
+}
+
+.nixnettv {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 108px;
+  position: absolute;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.preview-1 {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 142px;
+  white-space: nowrap;
+}
+
+.a-preview-of-nixnet {
+  color: var(--white);
+  font-family: var(--font-family-patron-bold-☞);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 179px;
+  white-space: nowrap;
+}
+
+.rectangle-6-1 {
+  background-color: var(--storm-dust);
+  height: 93px;
+  left: 32px;
+  position: absolute;
+  top: 329px;
+  width: 491px;
+}
+
+.nixnettv-preview {
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 360px;
+  white-space: nowrap;
+}
+
+.nixnettv-preview-1 {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 222px;
+  white-space: nowrap;
+}
+
+.available-from-314 {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 598px;
+  white-space: nowrap;
+}
+
+.season-container {
+  background-color: var(--storm-dust);
+  border-radius: 41px;
+  height: 70px;
+  left: 32px;
+  position: absolute;
+  top: 248px;
+  width: 217px;
+}
+
+.season-1 {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.rectangle-8 {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 36px;
+  left: 1239px;
+  position: absolute;
+  top: 733px;
+  width: 128px;
+}
+
+.overlap-group1-1 {
+  height: 77px;
+  left: 32px;
+  position: absolute;
+  top: 718px;
+  width: 200px;
+}
+
+.rectangle-9 {
+  background-color: var(--storm-dust);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.place-1 {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
